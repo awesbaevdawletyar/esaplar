@@ -1,0 +1,2 @@
+# esaplar
+Python boyinsha esaplar
